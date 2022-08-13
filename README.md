@@ -45,9 +45,11 @@ Ten main tech-skills for Middle Software Engineer on Java in 2022
   </ul>
 </details>
 
+
 <hr/>
 
-<h2 title="first vacancy">№2 - Java Developer Big Data (<a href="https://career.habr.com/companies/mts">MTS</a>)</h2>
+
+<h2 title="second vacancy">№2 - Java Developer Big Data (<a href="https://career.habr.com/companies/mts">MTS</a>)</h2>
 <details>
     <summary><b>Preview ⬇️</b></summary>
     <img title="preview" src="https://user-images.githubusercontent.com/85867091/184496413-5b5e6531-8254-4cfa-8d62-e5a96b2e06ea.png" />
@@ -91,4 +93,60 @@ Ten main tech-skills for Middle Software Engineer on Java in 2022
   </ul>
 </details>
 
+
 <hr/>
+
+
+
+<h2 title="third vacancy">
+    №3 - <a href="https://career.habr.com/vacancies/1000107969">Middle Java Developer</a> (project ...) 
+    (<a href="https://career.habr.com/companies/mts">MTS</a>)
+</h2>
+
+<h4>stack: Java (8,11), SpringBoot, PostgreSQL, Hibernate, Kafka, OpenShift.</h4>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/184497453-28efc703-1ef2-49d3-a711-e7a53d756156.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+  <summary><b>Let's see</b></summary>
+  </br>
+  <ul>
+    <li>разработка с нуля системы для управления платформой хранения и обработки больших данных (аналог Apache Ambari);</li>
+    <li>участие в выборе стека технологий и продумывание архитектуры совместно с коллегами.</li>
+    <li>поддержка при тестирование новых компонентов платформы для хранения и обработки больших данных (помощь в идентификации ошибок, выпуск патчей (bugfix по выявленным проблемам)).</li>
+  </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+  <li>Опыт разработки на Java от одного года;</li>
+  <li>Опыт разработки на SpringBoot;</li>
+  <li>Опыт написания Unit-тестов под SpringBoot-приложения;</li>
+  <li>Опыт работы с базой данных PostgreSQL;</li>
+  <li>Знание ORM Hibernate;</li>
+  <li>Опыт сборки проектов Gradle, Maven;</li>
+  <li>Опыт работы с брокером сообщений Kafka.</li>
+  </br>
+  <li>
+    <details>
+      <summary>Expand rest</summary>
+      <li>Понимание принципов интеграционного взаимодействия по REST и GRPC;</li>
+      <li>Знание форматов передачи данных XML и JSON;</li>
+      <li>Знание и применение на практике принципов ООП и шаблонов проектирования;</li>
+    </details>
+  </li>
+</ul>
+
+<details title="respect for">
+  <summary><b>It would be awesome, if you have:</b></summary>
+  <ul>
+    <li>Work experience on project with microservices;</li>
+    <li>Work experience with common technologies of OpenShift/K8S.</li>
+  </ul>
+</details>
+
+</hr>
