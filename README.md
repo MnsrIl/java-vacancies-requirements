@@ -256,3 +256,46 @@
 
 
 <hr/>
+
+
+<h2 title="sixth vacancy">
+    №6 - <a href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210290137/?utm_medium=jobshare">Java Spring-Software Engineer</a>
+    (<a href="https://www.linkedin.com/company/jpmorganchase/">JPMorgan Chase & Co.</a>)
+</h2>
+
+<p><b>stack:</b> Core Java, SpringBoot, Cloud, Microservices, JDBC, XML, Intellij/Eclipse, Maven, GIT, Jenkins, Junit</p>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/185808805-fadf2ac9-a111-47e3-b53e-63b785d463e6.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+  <summary><b>Let's see</b></summary>
+  <ul>
+    <li>We are looking for proactive, highly motivated technologists with a positive attitude. </li>
+    <li>Must have excellent team-working, communication, analytical and problem solving skills. </li>
+    <li>Someone keen to make an impact in a new challenging and dynamic environment.</li>
+    </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+    <li>Experienced Java developer  - Core Java, SpringBoot, Cloud, Microservices, JDBC, XML, Intellij/Eclipse, Maven, GIT, Jenkins, Junit</li>
+    <li>Excellent knowledge of frameworks in Java and should have extensively used and worked on the same.</li>
+    <li>Candidate should be completely hands on and should be open to developing and contributing to the team’s project work.</li>
+    <li>Solid knowledge of Oracle&SQL programming with the ability to write and maintain stored procedures.</li>
+    <li>Excellent analytical and problem solving skills.</li>
+    <li>Strong written and verbal communication skills.</li>
+</ul>
+
+<details title="respect for">
+  <summary><b>It would be awesome, if you:</b></summary>
+  <ul>
+    <li>Experience with REACT JS is an advantage.</li>
+  </ul>
+</details>
+
+
+<hr/>
