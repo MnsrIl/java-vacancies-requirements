@@ -227,31 +227,31 @@
 
 <h3 title="responsibility">Responsibility:</h3>
 <details title="engineer responsibilities">
-  <summary><b>Let's see</b></summary>
-  </br>
-  <ul>
-    <li>It’s a long-term commitment. It takes years to understand the laboratory domain and we are prepared to invest our time to transfer the knowledge, but you should be prepared for years of fruitful collaboration, not a short term engagement.</li>
-   <li>Once you gain the experience, you need to be prepared to share it with others. Experienced engineers are expected to serve as team leaders and pass on the experience, perform design and code reviews for new members that join the team</li>
-   <li>We are looking for people who value the impact they have on the software design and implementation and are passionate about the outcome.</li>
-   <li>Team size 5-6 ppl</li>
-  </ul>
+    <summary><b>Let's see</b></summary>
+    </br>
+    <ul>
+        <li>It’s a long-term commitment. It takes years to understand the laboratory domain and we are prepared to invest our time to transfer the knowledge, but you should be prepared for years of fruitful collaboration, not a short term engagement.</li>
+        <li>Once you gain the experience, you need to be prepared to share it with others. Experienced engineers are expected to serve as team leaders and pass on the experience, perform design and code reviews for new members that join the team</li>
+        <li>We are looking for people who value the impact they have on the software design and implementation and are passionate about the outcome.</li>
+        <li>Team size 5-6 ppl</li>
+    </ul>
 </details>
 
 <h3 title="requirements">Requirements:</h3>
 <ul> 
-   <li>Openness to new ideas.</li>
-   <li>Strong command of Java language (awareness of effective java patterns).</li>
-   <li>Sharing of our understanding that our job is finished when a feature is delivered to our customers and they are happy about it.</li>
+    <li>Openness to new ideas.</li>
+    <li>Strong command of Java language (awareness of effective java patterns).</li>
+    <li>Sharing of our understanding that our job is finished when a feature is delivered to our customers and they are happy about it.</li>
 </ul>
 
 <details title="respect for">
-  <summary><b>It would be awesome, if you:</b></summary>
-  <ul>
-    <li>Understand the 3rd normal form and know where to apply it.</li>
-    <li>Are eager  to design features from the ground up: UX, process, data storage.</li>
-    <li>Know how to fix deadlocks, OOM or improve application performance.</li>
-    <li>Design your code with testing in mind.</li>
-  </ul>
+    <summary><b>It would be awesome, if you:</b></summary>
+    <ul>
+        <li>Understand the 3rd normal form and know where to apply it.</li>
+        <li>Are eager  to design features from the ground up: UX, process, data storage.</li>
+        <li>Know how to fix deadlocks, OOM or improve application performance.</li>
+        <li>Design your code with testing in mind.</li>
+    </ul>
 </details>
 
 
@@ -272,11 +272,11 @@
 
 <h3 title="responsibility">Responsibility:</h3>
 <details title="engineer responsibilities">
-  <summary><b>Let's see</b></summary>
-  <ul>
-    <li>We are looking for proactive, highly motivated technologists with a positive attitude. </li>
-    <li>Must have excellent team-working, communication, analytical and problem solving skills. </li>
-    <li>Someone keen to make an impact in a new challenging and dynamic environment.</li>
+    <summary><b>Let's see</b></summary>
+    <ul>
+        <li>We are looking for proactive, highly motivated technologists with a positive attitude. </li>
+        <li>Must have excellent team-working, communication, analytical and problem solving skills. </li>
+        <li>Someone keen to make an impact in a new challenging and dynamic environment.</li>
     </ul>
 </details>
 
@@ -291,10 +291,216 @@
 </ul>
 
 <details title="respect for">
+    <summary><b>It would be awesome, if you:</b></summary>
+    <ul>
+        <li>Experience with REACT JS is an advantage.</li>
+    </ul>
+</details>
+
+
+<hr/>
+
+
+<h2 title="seventh vacancy">
+    №7 - <a href="https://www.epam.com/careers/job-listings/job.68585.remote_java-engineer">Java Engineer</a>
+    (<a href="https://www.epam.com/">EPAM</a>)
+</h2>
+
+<p><b>stack:</b> Java 8, Spring, JAX-RS, Redis, RabbitMQ</p>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/185878616-390aa04e-e8da-4750-b7de-dee3201d35c9.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+    <summary><b>Let's see</b></summary>
+    <br />
+    <ul>
+        <li>-</li>
+    </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+    <li>Strong Java background + Java 8 experience</li>
+    <li>Solid knowledge of Spring (Core, Data, etc.)</li>
+    <li>Strong experience in developing micro-services, JAX-RS</li>
+    <li>Experience with NoSQL databases (i.e. and Redis)</li>
+    <li>Messaging Queues (RabbitMQ, SNS/SQS)</li>
+    <li>Intermediate or higher level of English</li>
+    <li>Experience in Scrum (we utilize a tailored Scrum as a project management framework with extensive communication within the product and engineering teams)</li>
+</ul>
+
+<details title="respect for">
+    <summary><b>It would be awesome, if you:</b></summary>
+    <ul>
+        <li>Experience in front-end development is a plus</li>
+        <li>Preferable if you have AWS experience, ECS, AWS Fargate, Firecracker, WS, REST, AWS Aurora (PostgreSQL, MySQL)</li>
+        <li>Gradle, Ansible, Terraform, Docker is a plus</li>
+        <li>Experience with WebRTC</li>
+    </ul>
+</details>
+
+
+<hr/>
+
+<h2 title="eighth vacancy">
+    №8 - <a href="https://www.linkedin.com/jobs/view/3233969570">Java Developer</a>
+    (<a href="https://www.linkedin.com/company/kront/">Kron</a>)
+</h2>
+
+<p><b>stack:</b> Java, GWT, GXT, HTML, Http, Ajax, JavaScript, MVC frameworks, React.js</p>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/185908289-9e90ef99-43fe-43e3-b5ef-05eaad776e15.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+    <summary><b>Let's see</b></summary>
+    <br />
+    <ul>
+        <li>Provide Software Development best practices to projects, ensuring that all meet with Kron and relevant industry standards,</li>
+        <li>Implement the requirements according to the analysis of the projects,</li>
+        <li>Implement the unit tests for the implementations,</li>
+        <li>Participate in the detailed technical design for the requirements,</li>
+        <li>Fix the bugs reported during system testing period,</li>
+        <li>Be open for improving &using new Technologies</li>
+        <li>Give support for production issues.</li>
+    </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+    <li>Be passionate, curious & eager to learn,</li>
+    <li>Be a good team player & be flexible in aligning personal goals with team objectives,</li>
+    <li>Have good communicational and interpersonal skills,</li>
+    <li>Have min. 2 years experience,</li>
+    <li>Have knowledge on Java, GWT, GXT, HTML, Http, Ajax, JavaScript, MVC frameworks, React.js</li>
+    <li>Have knowledge on Object-Oriented design and Design patterns, Hibernate, Web services, JUnit or any unit testing tool, Linux/Unix, SVN, Git, Java project management tools such as Maven/Gradle and reactive programming are strong assets,</li>
+    <li>Have knowledge of database systems,</li>
+    <li>Adapt to changing circumstances and demands, whilst maintaining standards,</li>
+    <li>Have the ability to analyze, monitor and improve stability & performance of Java Applications,</li>
+</ul>
+
+<details title="respect for">
+    <summary><b>It would be awesome, if you:</b></summary>
+    <ul>
+        <li>-</li>
+    </ul>
+</details>
+
+
+<hr/>
+
+
+<h2 title="ninth vacancy">
+    №9 - <a href="https://jobs.ubs.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=25008&siteid=5012&PageType=JobDetails&jobid=258053&codes=IINDD#jobDetails=258053_5012">Full Stack Java/Python Tech Engineer</a>
+    (<a href="https://www.ubs.com/ch/de.html">UBS Careers</a>)
+</h2>
+
+<p><b>stack:</b> Java, JavaScript, Python, HTML</p>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/185917554-8e48abc6-907c-43a5-9b4c-7c6cf2c6f4b4.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+    <summary><b>Let's see</b></summary>
+    <br />
+    <ul>
+        <li>-</li>
+    </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+    <li> strong core Java, Python Javascript and HTML skills</li>
+    <li> large-scale enterprise, object-oriented design experience</li>
+    <li> experience in full-stack application development , including analyzing stories, writing code, implementing automated tests, contributing to release and iteration planning</li>
+    <li> strong analytical, problem-solving and synthesizing skills</li>
+    <li> a conceptual understanding of software development including the full project lifecycle from working on multiple substantial projects using Agile development methodologies</li>
+    <li> exposure to development within the EidosMedia Methode platform is a distinct advantage but not essential</li>
+    <li> curious and collaborative, comfortable working independently, as well as in a global team</li>
+    <li> the go-to person for the latest development innovation</li>
+    <li>A proponent of OOP, Design Patterns and Principles</li>
+    <li> Strong advocate of agile software development and the demands of being on a Scrum team</li>
+</ul>
+
+<details title="respect for">
   <summary><b>It would be awesome, if you:</b></summary>
   <ul>
-    <li>Experience with REACT JS is an advantage.</li>
-  </ul>
+<li>-</li>
+</ul>
+</details>
+
+
+<hr/>
+
+
+<h2 title="tenth vacancy">
+    №10 - <a href="https://jobs.capgemini.com/gb-en/job/Any-UK-base-Java-Developer-LND/608500401/">Java Developer</a>
+    (<a href="https://www.capgemini.com/gb-en">Capgemini</a>)
+</h2>
+
+<p><b>stack:</b> Java, Spring, Hystrix, JBoss, Jenkins, Artifactory</p>
+
+<details>
+    <summary><b>Preview ⬇️</b></summary>
+    <img title="preview" src="https://user-images.githubusercontent.com/85867091/185986093-37816d16-7b4e-4dc4-9e56-2d84dd057fdf.png" />
+</details>
+
+<h3 title="responsibility">Responsibility:</h3>
+<details title="engineer responsibilities">
+    <summary><b>Let's see</b></summary>
+    <br />
+    <ul>
+        <li>You’ll be responsible for the specification, development, unit testing and implementation of complex multi-tier applications.</li>
+        <li>You’ll enhance existing applications to meet changes in need and requirement.</li>
+        <li>You’ll provide technical support for the transition of applications into live service and support.</li>
+        <li>You’ll ensure projects are delivered on time and on budget.</li>
+        <li>You’ll ensure that functional and non-functional requirements are appropriately implemented</li>
+    </ul>
+</details>
+
+<h3 title="requirements">Requirements:</h3>
+<ul>
+    <li>Excellent knowledge of Java and core open source technologies and frameworks; experience of building scalable, resilient applications</li>
+    <li>Experience of the core XP practices of TDD, Pair Programming, and Continuous Integration</li>
+    <li>Demonstrable experience in one or more technology stacks, e.g. Spring (e.g. Core, MVC, Data, Boot/Cloud), Integration Technologies (Spring Integration, Apache Camel, REST, Messaging), Spring Framework 5 (preferably with experience of Spring Boot, Spring Integration, Spring Batch, Hystrix)</li>
+    <li>Experience of Websphere (or experience with alternative JEE App servers e.g. JBoss, Glassfish)</li>
+    <li>Hands on development experience with hibernate, quartz and bootstrap technologies and Microsoft SQL Server</li>
+    <li>Experience of Bitbucket (or experience with alternative GIT repositories e.g.  GitHub, GitLab)</li>
+    <li>Experience of Jenkins (or experience with alternative CICD e.g. TeamCity, Bamboo, Drone)</li>
+    <li>Experience of Artifactory (or experience with alternative Binary Management e.g. Nexus, Archiva)</li>
+    <li>Experience of working in collaborative teams</li>
+    <li>Experience in pragmatic architecture, using just enough to get the job done.</li>
+<li>SC Cleared or Clearable</li>
+</ul>
+
+<details title="respect for">
+    <summary><b>It would be awesome, if you:</b></summary>
+    <ul>
+        <li>Successfully delivering performant, scalable and long-transactional digital services in complex and highly regulatory environments</li>
+        <li>Java 8 and dependency injection, building asynchronous microservices with RESTful APIs</li>
+        <li>JAX-RS for REST APIs</li>
+        <li>JMS</li>
+        <li>NoSQL</li>
+        <li>JavaScript frameworks (e.g. ReactJS, NodeJS, Angular)</li>
+        <li>Automated testing with Junit and Mockito</li>
+        <li>Designing microservice-based architectures using domain driven design (DDD) , CQRS and Event Sourcing patterns</li>
+        <li>Containerisation technologies: Docker or Kubernetes</li>
+        <li>JIRA / Confluence</li>
+        <li>Python</li>
+        <li>Powershell</li>
+        <li>Chef</li>
+        <li>IBM ODM Rules development</li>
+    </ul>
 </details>
 
 
